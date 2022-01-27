@@ -34,13 +34,13 @@
  <button type="submit">Submit</button>
  
 <label for="indoor">
-    <input id="indoor" type="radio" value="indoor" name="indoor-outdoor">Indoor>
+    <input id="indoor" type="radio" value="indoor" name="indoor-outdoor" checked>Indoor>
 </label>
     <label for="outdoor">
     <input id="outdoor" type="radio" value="outdoor" name="indoor-outdoor">Outdoor>
 </label>
 
-  <label for="lethargic"><input id="lethargic" type="checkbox" value="lethargic" name="personality"> Lethargic
+  <label for="lethargic"><input id="lethargic" type="checkbox" value="lethargic" name="personality" checked> Lethargic
   </label>
   
   <label for="cute"><input id="cute" type="checkbox" value="cute" name="personality"> Cute
