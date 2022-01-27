@@ -40,6 +40,15 @@
     <input id="outdoor" type="radio" name="indoor-outdoor">Outdoor>
 </label>
 
+  <label for="lethargic"><input id="lethargic" type="checkbox" name="personality"> Lethargic
+  </label>
+  
+  <label for="cute"><input id="cute" type="checkbox" name="personality"> Cute
+  </label>
+  
+  <label for="awesome"><input id="awesome" type="checkbox" name="personality"> Awesome
+  </label>
+
 </form>
 
 </main>
