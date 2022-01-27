@@ -14,6 +14,7 @@
 
 <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
 
+<div>
 <p>Things cats love:</p>
 <ul>
   <li>Me</li>
@@ -27,6 +28,7 @@
     <li>Me</li>
     <li>dogs?</li>
   </ol>
+  </div>
 <form action="https://www.freecatphotoapp.com/submit-cat-photo">
 
 <input type="text" placeholder="cat photo URL" required>
